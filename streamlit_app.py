@@ -46,6 +46,3 @@ if streamlit.button("Get fruit load list"):
    streamlit.dataframe(my_data_rows)
 
 
-
-streamlit.dataframe(my_data_rows)
-
