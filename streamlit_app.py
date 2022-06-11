@@ -28,4 +28,4 @@ streamlit.dataframe(my_data_rows)
 streamlit.header("🍌Fruityvice Fruit Advice")
 streamlit.text("What fruit would you like information about?")
 fruit_advice_item = streamlit.text_input("Input your fruit")
-streamlit.text("The user selected " + fruit_advice_item
+streamlit.text("The user selected " + fruit_advice_item)
